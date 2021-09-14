@@ -1,4 +1,2 @@
-Theme Name: Medilab
-Theme URL: https://bootstrapmade.com/medilab-free-medical-bootstrap-theme/
-Author: BootstrapMade.com
-Author URL: https://bootstrapmade.com
+Welcome to my website!
+I will be using this website to showcase some of the projects as a computer science student :)
